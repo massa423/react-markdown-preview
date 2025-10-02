@@ -55,7 +55,7 @@
     "eslint-plugin-prefer-arrow": "^1.2.2",
     "eslint-plugin-prettier": "^5.0.0",
     "eslint-plugin-react": "^7.20.3",
-    "eslint-plugin-react-hooks": "^5.0.0",
+    "eslint-plugin-react-hooks": "^6.0.0",
     "prettier": "^3.0.0",
     "prettier-stylelint": "^0.4.2",
     "stylelint": "^16.0.0",
