@@ -58,7 +58,7 @@
     "eslint-plugin-react-hooks": "^7.0.0",
     "prettier": "^3.0.0",
     "prettier-stylelint": "^0.4.2",
-    "stylelint": "^17.0.0",
+    "stylelint": "^18.0.0",
     "stylelint-config-prettier": "^9.0.0",
     "stylelint-config-standard": "^40.0.0",
     "stylelint-order": "^8.0.0"
